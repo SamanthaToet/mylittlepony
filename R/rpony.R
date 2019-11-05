@@ -3,7 +3,9 @@ ponies <- c(
   "Rainbow Dash",
   "Pinkie Pie",
   "Applejack",
-  "Rarity"
+  "Rarity",
+  "Fluttershy",
+  "Beanbrain"
 )
 
 rpony <- function(n) {
