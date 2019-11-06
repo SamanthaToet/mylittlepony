@@ -4,11 +4,6 @@ ponies <- c(
   "Pinkie Pie",
   "Applejack",
   "Rarity",
+  "Fluttershy",
   "Fluttershy"
-)
 
-rpony <- function(n) {
-  sample(ponies, n, replace = TRUE)
-}
-
-rpony(10)
